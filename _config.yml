@@ -18,7 +18,6 @@ profile:
 #Github
 github: 
 	username: dzyhenry
-  popular_repos: [lamb, vim_env]
 
 #Comments
 #duoshuo_username: yumemor # 多说配置
